@@ -104,6 +104,7 @@ server/
 ## Future Improvements
 
 - Notification system for approvals
+- Offer grades to students on completion of the course
 
 ## Contributing
 

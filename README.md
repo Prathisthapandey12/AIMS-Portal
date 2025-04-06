@@ -3,7 +3,6 @@
 A web-based Academic Information Management System (AIMS) portal built using React, Axios, Express.js, and MongoDB.  
 This platform manages course offerings and enrollment workflows involving three primary stakeholders: Admin, Faculty, and Students.
 
----
 
 ## Features
 
@@ -23,16 +22,12 @@ This platform manages course offerings and enrollment workflows involving three 
 - Enroll in offered courses
 - Track enrollment status based on faculty approval
 
----
-
 ## Tech Stack
 
 - **Frontend:** React
 - **API Communication:** Axios
 - **Backend:** Express.js
 - **Database:** MongoDB
-
----
 
 ## Getting Started
 
@@ -88,7 +83,6 @@ cd backend
 nodemon node server.js
 ```
 
----
 
 ## Folder Structure
 

@@ -114,6 +114,6 @@ Feel free to fork this repository and submit a pull request.
 
 ## Contact
 
-Created by Your Name  
+Created by Prathistha Pandey 
 GitHub: [https://github.com/Prathisthapandey12](https://github.com/Prathisthapandey12)
 
